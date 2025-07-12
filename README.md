@@ -10,6 +10,20 @@ Nurture Hub is a supportive online platform designed to provide pregnant women w
 - **Multilingual Support**: Available in multiple languages for better accessibility.
 - **AI-Powered Content Recommendations**: Relevant resources based on user interests and stage of pregnancy.
 
+## 🧑‍💻 My Contributions  
+As a core **frontend developer**, I contributed to the following:
+
+- Developed the entire **Pregnancy Page**  
+- Implemented:  
+  - **Routine Checkup Reminders**  
+  - **Baby Growth Tracker** (week-wise updates)  
+  - **Ovulation Calculator**  
+  - **Due Date Estimator**  
+- Contributed to improving UI structure and UX design  
+- Ensured mobile responsiveness and clean layout
+
+> ⚠️ This project was a team collaboration. Some features and backend components were developed by other contributors.
+
 ## 📽️ Demo
 Watch the project demo on [YouTube](https://youtu.be/rcdEfAfdUiY).
 
